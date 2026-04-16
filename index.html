@@ -1,89 +1,169 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>신입사원 OJT 온보딩</title>
+    <!-- 파비콘 (브라우저 탭 아이콘) -->
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230F172A'/><text x='50' y='64' font-size='40' font-family='sans-serif' font-weight='bold' fill='%23ffffff' text-anchor='middle'>OJT</text></svg>">
     <link rel="stylesheet" href="style.css">
-    
+
     <!-- Google Fonts: Pretendard -->
-    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
-    
-    <!-- Phosphor Icons -->
+    <link rel="stylesheet" as="style" crossorigin
+        href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+
+    <!-- General Icons (Phosphor) -->
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <!-- Brand Icons (FontAwesome Free) for Google, Confluence, Jira -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
+
 <body>
-    <!-- Background Animated Blobs for Premium Visuals -->
-    <div class="background-elements">
-        <div class="blob shape1"></div>
-        <div class="blob shape2"></div>
-        <div class="blob shape3"></div>
-    </div>
-    
     <main class="container">
         <header class="header">
-            <div class="badge">🚀 OJT Onboarding</div>
-            <h1>신입사원 OJT 자료실</h1>
-            <p>환영합니다! 원활한 온보딩을 위해 준비된 자료들을 확인하고 학습을 진행해 주세요.</p>
+            <div class="badge">OJT Onboarding</div>
+            <h1> OJT - 전지훈 </h1>
         </header>
 
-        <section class="links-grid">
-            <!-- Link Item 1 -->
-            <a href="https://example.com/ojt/1" class="link-card" target="_blank">
-                <div class="icon-wrapper bg-blue">
-                    <i class="ph ph-book-open"></i>
+        <div class="two-column-layout">
+            <!-- Left Column: Materials -->
+            <div class="column">
+                <div class="section-title">
+                    <h2>공식 문서 및 자료</h2>
                 </div>
-                <div class="link-content">
-                    <h2>01. 회사 및 팀 소개</h2>
-                    <p>우리 회사의 비전, 목표, 그리고 팀의 역할과 문화를 알아봅니다.</p>
-                </div>
-                <div class="arrow-icon">
-                    <i class="ph ph-arrow-right"></i>
-                </div>
-            </a>
-            
-            <!-- Link Item 2 -->
-            <a href="https://example.com/ojt/2" class="link-card" target="_blank">
-                <div class="icon-wrapper bg-purple">
-                    <i class="ph ph-code"></i>
-                </div>
-                <div class="link-content">
-                    <h2>02. 개발 환경 셋업</h2>
-                    <p>로컬 개발 환경 구성, 필수 도구 설치 및 권한 신청 가이드입니다.</p>
-                </div>
-                <div class="arrow-icon">
-                    <i class="ph ph-arrow-right"></i>
-                </div>
-            </a>
+                <section class="links-grid">
+                    <!-- Google PPT -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper brand-google">
+                            <i class="fa-brands fa-google-drive"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>Google PPT 자료</h2>
+                            <p>신규 입사자를 위한 오리엔테이션 및 필수 교육 가이드 자료입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
 
-            <!-- Link Item 3 -->
-            <a href="https://example.com/ojt/3" class="link-card" target="_blank">
-                <div class="icon-wrapper bg-pink">
-                    <i class="ph ph-git-branch"></i>
-                </div>
-                <div class="link-content">
-                    <h2>03. 브랜치 전략 및 Git 컨벤션</h2>
-                    <p>효율적인 협업을 위한 코드 관리 방식과 커밋 규칙을 확인하세요.</p>
-                </div>
-                <div class="arrow-icon">
-                    <i class="ph ph-arrow-right"></i>
-                </div>
-            </a>
+                    <!-- Confluence / Jira -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper brand-confluence">
+                            <i class="fa-brands fa-confluence"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>Confluence</h2>
+                            <p>아코디언 페이지 형태로 정리된 세부 업무 가이드 및 참고 문서입니다.</p>
+                        </div>
+                        <div class="right-addon">
+                            <span class="auth-box"> admin / accordion!@# </span>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
 
-            <!-- Link Item 4 -->
-            <a href="https://example.com/ojt/4" class="link-card" target="_blank">
-                <div class="icon-wrapper bg-orange">
-                    <i class="ph ph-rocket-launch"></i>
+                    <!-- Catalog -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-blue">
+                            <i class="ph ph-list-dashes"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>카탈로그 배포</h2>
+                            <p>현재 운영 및 개발 중인 주요 서비스들의 목록과 소개 페이지입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+                </section>
+            </div>
+
+            <!-- Right Column: Assignments -->
+            <div class="column">
+                <div class="section-title">
+                    <h2>주차별 교육 과정 및 과제</h2>
                 </div>
-                <div class="link-content">
-                    <h2>04. 배포 프로세스 및 인프라 구조</h2>
-                    <p>시스템 아키텍처 이해와 애플리케이션 배포 파이프라인 가이드입니다.</p>
-                </div>
-                <div class="arrow-icon">
-                    <i class="ph ph-arrow-right"></i>
-                </div>
-            </a>
-        </section>
+                <section class="links-grid">
+                    <!-- 2~3 Weeks -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-purple">
+                            <i class="ph ph-book-open"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>2~3주차 실무 과제</h2>
+                            <p>해당 주차에 진행할 실무 적응 및 기초 개발 과제 목록입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+
+                    <!-- 4 Week -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-blue">
+                            <i class="ph ph-book-open"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>4주차 실습 과정</h2>
+                            <p>4주차 목표에 대한 상세 실습 내용 및 참고 자료입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+
+                    <!-- 5 Week -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-gray">
+                            <i class="ph ph-book-open"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>5주차 실습 과정</h2>
+                            <p>5주차 목표에 대한 상세 실습 내용 및 참고 자료입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+
+                    <!-- 6 Week -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-gray">
+                            <i class="ph ph-book-open"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>6주차 실습 과정</h2>
+                            <p>6주차 목표에 대한 상세 실습 내용 및 참고 자료입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+
+                    <!-- 7 Week -->
+                    <a href="#" class="link-card" target="_blank">
+                        <div class="icon-wrapper bg-gray">
+                            <i class="ph ph-book-open"></i>
+                        </div>
+                        <div class="link-content">
+                            <h2>7주차 최종 종합 과제</h2>
+                            <p>온보딩 과정을 마무리하는 7주차 종합 과제 및 리뷰 자료입니다.</p>
+                        </div>
+                        <div class="arrow-icon">
+                            <i class="ph ph-arrow-right"></i>
+                        </div>
+                    </a>
+                </section>
+            </div>
+        </div>
+
+        <!-- Bottom spacing -->
+        <div style="height: 4rem;"></div>
     </main>
 </body>
+
 </html>
