@@ -1,0 +1,32 @@
+--과제
+2~3주차:   https://mantech.jira.com/wiki/spaces/ATB/pages/5349277745/2~3?atlOrigin=eyJpIjoiYzQwNmE0MDVmYTM2NGYzOGI0OTFlMjAyM2QwOGI5MzQiLCJwIjoiYyJ9
+4주차:     https://mantech.jira.com/wiki/spaces/ATB/pages/5369594099/4?atlOrigin=eyJpIjoiNTIxODcxMGQxZTE5NGI4ZWI5ZWVlNTMyNmIyZDg0NTEiLCJwIjoiYyJ9
+5주차:     https://mantech.jira.com/wiki/spaces/ATB/pages/5390893576/5?atlOrigin=eyJpIjoiZjZiZTMyZmRkOWY0NDYxMWIzMDhiMzc0N2VkZjZiOTYiLCJwIjoiYyJ9
+
+--문서
+Linux:    https://mantech.jira.com/wiki/spaces/AC/pages/5317885967/Linux?atlOrigin=eyJpIjoiNWI4Y2E5ZDkyNmE1NDZkNGE3MDljYzEzYzliNjFlMWIiLCJwIjoiYyJ9
+Network:  https://mantech.jira.com/wiki/spaces/AC/pages/5337251880/Network?atlOrigin=eyJpIjoiYjJmNjE5MTMzYWEwNDk3NTgzZGM1NDQxMTYxZTk0MzIiLCJwIjoiYyJ9
+WAS:      https://mantech.jira.com/wiki/spaces/AC/pages/5360418820/WAS?atlOrigin=eyJpIjoiYzE4ZjY4ZGQ0ZDNhNDVhMjliMmE5ZTdiOWZhNTVlZDEiLCJwIjoiYyJ9
+Kubernetes: https://mantech.jira.com/wiki/spaces/AC/pages/5333286931/Kubernetes?atlOrigin=eyJpIjoiNjQ3OGQ5OWIxZjk4NGRiMGEzNmQzOWQyM2YyMDdlMzkiLCJwIjoiYyJ9
+Ansible:   https://mantech.jira.com/wiki/spaces/AC/pages/5333188681/IaC+Ansible?atlOrigin=eyJpIjoiNDc1NTdlZGQyM2MyNGI3OWE0NTg0ODhlY2Y5ZjZjOWMiLCJwIjoiYyJ9
+Accordion 설치: https://mantech.jira.com/wiki/spaces/AC/pages/5332566037/Accordion?atlOrigin=eyJpIjoiMGY4ZWJiODMxMWMwNGUzY2IyYzY4NDdiZDg4Y2ZjY2QiLCJwIjoiYyJ9
+Accordion 내부 기능:  https://mantech.jira.com/wiki/spaces/AC/pages/5419139084/Accordion?atlOrigin=eyJpIjoiY2E0NDViMjI1MjVmNDRiOTllNDBlMTc5ZjY4OTkxNzgiLCJwIjoiYyJ9
+Accordion Catalog WEB-WAS-DB:  https://mantech.jira.com/wiki/spaces/AC/pages/5434310703/Accordion+WEBWASDB?atlOrigin=eyJpIjoiNDhhMmJlMzVjMWNjNGJjMWIwY2JlZmZmMDFlYzkzM2EiLCJwIjoiYyJ9
+
+
+--추가 링크
+아코디언 주소: https://10.140.20.105:30000/
+Ansible Github(Ansible문서 아래에 넣기): https://github.com/xinun/Ansible-k8s.git
+
+QA 2.12.0(Accordion 내부 기능): https://docs.google.com/spreadsheets/d/1wuj3LCRJj3uEKmrWVEeddbCBui2ToJQ5UlKZbHa2eSs/edit?usp=sharing
+Catalog 명세서(Accordion Catalog WEB-WAS-DB): https://docs.google.com/spreadsheets/d/1lWX2e7as99d6iP1ya84fujYz9HArZpFQ6BTeQqO0yqc/edit?usp=sharing
+
+ppt: https://docs.google.com/presentation/d/1atCR4RI7jrfpZzoJG3TnXKWc6TPl8pORiVQUISQNryU/edit?usp=sharing
+
+Catalog 배포 화면: http://10.140.20.105:31307/
+
+
+
+
+
+
