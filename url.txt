@@ -4,13 +4,17 @@
 5주차:     https://mantech.jira.com/wiki/spaces/ATB/pages/5390893576/5?atlOrigin=eyJpIjoiZjZiZTMyZmRkOWY0NDYxMWIzMDhiMzc0N2VkZjZiOTYiLCJwIjoiYyJ9
 
 --문서
-Linux:    https://mantech.jira.com/wiki/spaces/AC/pages/5317885967/Linux?atlOrigin=eyJpIjoiNWI4Y2E5ZDkyNmE1NDZkNGE3MDljYzEzYzliNjFlMWIiLCJwIjoiYyJ9
-Network:  https://mantech.jira.com/wiki/spaces/AC/pages/5337251880/Network?atlOrigin=eyJpIjoiYjJmNjE5MTMzYWEwNDk3NTgzZGM1NDQxMTYxZTk0MzIiLCJwIjoiYyJ9
-WAS:      https://mantech.jira.com/wiki/spaces/AC/pages/5360418820/WAS?atlOrigin=eyJpIjoiYzE4ZjY4ZGQ0ZDNhNDVhMjliMmE5ZTdiOWZhNTVlZDEiLCJwIjoiYyJ9
-Kubernetes: https://mantech.jira.com/wiki/spaces/AC/pages/5333286931/Kubernetes?atlOrigin=eyJpIjoiNjQ3OGQ5OWIxZjk4NGRiMGEzNmQzOWQyM2YyMDdlMzkiLCJwIjoiYyJ9
-Ansible:   https://mantech.jira.com/wiki/spaces/AC/pages/5333188681/IaC+Ansible?atlOrigin=eyJpIjoiNDc1NTdlZGQyM2MyNGI3OWE0NTg0ODhlY2Y5ZjZjOWMiLCJwIjoiYyJ9
+Linux(2~3주차):    https://mantech.jira.com/wiki/spaces/AC/pages/5317885967/Linux?atlOrigin=eyJpIjoiNWI4Y2E5ZDkyNmE1NDZkNGE3MDljYzEzYzliNjFlMWIiLCJwIjoiYyJ9
+Network(2~3주차):  https://mantech.jira.com/wiki/spaces/AC/pages/5337251880/Network?atlOrigin=eyJpIjoiYjJmNjE5MTMzYWEwNDk3NTgzZGM1NDQxMTYxZTk0MzIiLCJwIjoiYyJ9
+WAS(2~3주차):      https://mantech.jira.com/wiki/spaces/AC/pages/5360418820/WAS?atlOrigin=eyJpIjoiYzE4ZjY4ZGQ0ZDNhNDVhMjliMmE5ZTdiOWZhNTVlZDEiLCJwIjoiYyJ9
+Kubernetes(4주차): https://mantech.jira.com/wiki/spaces/AC/pages/5333286931/Kubernetes?atlOrigin=eyJpIjoiNjQ3OGQ5OWIxZjk4NGRiMGEzNmQzOWQyM2YyMDdlMzkiLCJwIjoiYyJ9
+Ansible(5주차)   https://mantech.jira.com/wiki/spaces/AC/pages/5333188681/IaC+Ansible?atlOrigin=eyJpIjoiNDc1NTdlZGQyM2MyNGI3OWE0NTg0ODhlY2Y5ZjZjOWMiLCJwIjoiYyJ9
+
+6주차 아래에:
 Accordion 설치: https://mantech.jira.com/wiki/spaces/AC/pages/5332566037/Accordion?atlOrigin=eyJpIjoiMGY4ZWJiODMxMWMwNGUzY2IyYzY4NDdiZDg4Y2ZjY2QiLCJwIjoiYyJ9
 Accordion 내부 기능:  https://mantech.jira.com/wiki/spaces/AC/pages/5419139084/Accordion?atlOrigin=eyJpIjoiY2E0NDViMjI1MjVmNDRiOTllNDBlMTc5ZjY4OTkxNzgiLCJwIjoiYyJ9
+
+7주차 아래에:
 Accordion Catalog WEB-WAS-DB:  https://mantech.jira.com/wiki/spaces/AC/pages/5434310703/Accordion+WEBWASDB?atlOrigin=eyJpIjoiNDhhMmJlMzVjMWNjNGJjMWIwY2JlZmZmMDFlYzkzM2EiLCJwIjoiYyJ9
 
 
